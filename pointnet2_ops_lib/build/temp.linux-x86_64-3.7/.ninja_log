@@ -1,0 +1,10 @@
+# ninja log v5
+2	26097	1720708198545827862	/home/j824/wq/pointenet/PointeNet-main/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/group_points.o	387ee575464d404b
+2	26205	1720708198649828371	/home/j824/wq/pointenet/PointeNet-main/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/ball_query.o	8d60c70982b0f93c
+1	26208	1720708198653828390	/home/j824/wq/pointenet/PointeNet-main/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/sampling.o	71685d031fdc7419
+2	26734	1720708199181830971	/home/j824/wq/pointenet/PointeNet-main/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/interpolate.o	85e68d5d1559dbc6
+1	30652	1720708203089850077	/home/j824/wq/pointenet/PointeNet-main/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/bindings.o	75d90bd6c2a4583
+3	45131	1720708217565920847	/home/j824/wq/pointenet/PointeNet-main/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/interpolate_gpu.o	2573ac19242f583b
+4	45139	1720708217573920886	/home/j824/wq/pointenet/PointeNet-main/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/group_points_gpu.o	5c3bc7e53ef0adf8
+3	45385	1720708217817922079	/home/j824/wq/pointenet/PointeNet-main/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/ball_query_gpu.o	7a0668097adaf0eb
+4	46260	1720708218693926361	/home/j824/wq/pointenet/PointeNet-main/pointnet2_ops_lib/build/temp.linux-x86_64-3.7/pointnet2_ops/_ext-src/src/sampling_gpu.o	cbc6fcb1f2b6884e
